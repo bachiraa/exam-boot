@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ .navbar-nav{
+padding: 0 30px;
+ }
+
+ .navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-brand{
+  padding: 0 30px;
+}
+.fa-bars{
+  color: #fff;
+  font-size: 30px !important;
+}
+.navbar-toggler{
+  outline: none !important;
+}
+
+.banner {
+    background-color: rgb(36, 15, 15);
+    height: 500px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .tout{
+    margin-top: 130px;
+  }
+  .tout h1{
+    font-size: 40px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 200;
+  }
+  .tout h2{
+    font-size: 15px;
+    color: #ccc;
+    letter-spacing: 2px;
+    font-weight: 200;
+  }
+
+.link{
+  padding: 10px 27px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+.link:hover{
+  color: rgb(180, 117, 0)!important;
+}
+.link1{
+  padding: 10px 27px;
+  background-color: rgb(180, 117, 0)!important;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+.link1:hover, .link2:hover {
+  color: #ccc!important;
+}
+.link2{
+  padding: 10px 27px;
+  background-color: rgb(180, 117, 0)!important;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+#text{
+  margin-top: 100px;
+}
+
+#temp{
+  margin-top: 100px;
+  padding: 80px 0;
+  background-color: #eeeaea;
+}
+
+.temp h3{
+  font-size: 20px;
+}
+.temp p{
+  font-size: 15px;
+}
+
+#question{
+  margin-top: 100px;
+}
+.ask h2{
+  font-size: 20px;
+}
+.ask p{
+  font-size: 15px;
+  color:#a09d9d;
+}
+
+#more{
+  margin-top: 100px;
+  padding: 80px 0;
+  background-color: #eeeaea;
+}
+.par p{
+  font-size: 15px;
+}
+
+
+#footer{
+  margin-top: 100px;
+}
+
+.weight p{
+  font-size: 15px;
+}
+
+.page{
+  background-color: black;
+  display: flex;
+justify-content: space-between;  
+}
+
+.first p{
+  color: #ccc;
+  font-size: 15px;
+  padding: 10px 10px;
+}
